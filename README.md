@@ -73,5 +73,5 @@ This SQL analysis is part of a complete Business Analyst case study that also in
 
 • Business  Findings and Business Recommendations
 
- ### View the full case study
+ #### [View the full case study]( https://www.notion.so/Ride-Fulfillment-Full-Case-study-3a2f1ddf53808017a5e3fa699daa0893?source=copy_link )
 
