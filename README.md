@@ -15,15 +15,10 @@ Total records: 6745
 
 Key fields:
 Request id
-
 Pickup_place
-
 Driver id
-
 Status 
-
 Request timestamp
-
 Drop timestamp
 
 ### Analysis Performed: 
